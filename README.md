@@ -24,3 +24,14 @@ This project is a simple antivirus simulation developed using Python. It scans f
 
 ## Ethical Note
 This project was developed and tested in a safe local environment using dummy files for educational purposes only.
+
+## Screenshots
+
+### Antivirus Scanning
+![Antivirus Scanning](screenshots/scan-running.png)
+
+### Scan Logs
+![Scan Logs](screenshots/scan-log.png)
+
+### Quarantine Folder
+![Quarantine Folder](screenshots/quarantine-files.png)
